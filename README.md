@@ -1,3 +1,5 @@
+<p align="center"><img width=100% src="https://github.com/DCgov/opendatadc-requests/blob/master/media/Open-Data-Banner.png"></p>
+
 # opendatadc-starterkit
 This repo is a collection of samples designed to demonstrate how developers can use the json-based APIs found at [Open Data DC](http://opendata.dc.gov) to build data-centric applications. It is managed by DC Government staff members of Chief Data Officer's team.
 
